@@ -3,7 +3,6 @@
 
 - I’m currently reading WordPress documenatation and building
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
