@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm William</h1>
-<h3 align="center">I'm passionate learner from Hudson Valley</h3>
+<h1 align="left">Hi, I'm William</h1>
+<h3 align="left">I'm passionate learner from Hudson Valley</h3>
 
 - I’m currently reading WordPress documenatation and building
 
