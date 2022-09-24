@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate frontend developer from Hudson Valley</h3>
+<h1 align="center">Hi, I'm William</h1>
+<h3 align="center">I'm passionate learner from Hudson Valley</h3>
 
-- 🌱 I’m currently learning **WordPress**
+- I’m currently reading WordPress documenatation and building
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
